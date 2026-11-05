@@ -93,7 +93,8 @@ VirtualBox was installed as the hypervisor on the Windows host.
 
 The prebuilt Kali Linux VirtualBox image was downloaded from the official Kali website and imported into VirtualBox.
 
-![Kali Linux desktop running in VirtualBox, with the shared folder visible](3-screenshot-kali-linux.png)
+![Kali Linux desktop running in VirtualBox, with the shared folder visible]<img width="1366" height="643" alt="3-screenshot-kali-linux" src="https://github.com/user-attachments/assets/9410a819-4c3d-4f38-ba0c-a20ff2d718ba" />
+
 
 A shared folder (`sf_Downloads`) is also mounted on the Kali desktop for moving files between Windows and the VM.
 
@@ -112,7 +113,8 @@ IPv6:         Disabled
 
 Click **Apply** to save the change.
 
-![NatNetwork set to 10.0.0.0/24 with DHCP disabled](2-screenshot-network-settings-1.png)
+![NatNetwork set to 10.0.0.0/24 with DHCP disabled]<img width="1361" height="718" alt="2-screenshot-network-settings-1" src="https://github.com/user-attachments/assets/97d2cfdd-06a9-4c50-95d8-2afa373ae72a" />
+
 
 > **Note:** I first opened the **Host-only Networks** tab by mistake. Host-only networks have no internet access, so the NAT Network has to be configured under the **NAT Networks** tab.
 
@@ -141,7 +143,8 @@ DNS:        10.0.0.1   (8.8.8.8 is the course default)
 
 Save, then toggle networking off and on to apply.
 
-![Kali IPv4 settings: Manual, 10.0.0.2 / 24 / 10.0.0.1, DNS 10.0.0.1](4-screenshot-kali-network-settings.png)
+![Kali IPv4 settings: Manual, 10.0.0.2 / 24 / 10.0.0.1, DNS 10.0.0.1]<img width="1366" height="643" alt="4-screenshot-kali-network-settings" src="https://github.com/user-attachments/assets/10621725-a405-48a8-b849-068b3b68ee3f" />
+
 
 ## Step 6. Create a Clean VM Snapshot
 
@@ -289,7 +292,7 @@ This lab is for education only. I will only test systems I own or have written p
 
 **Oshidele Oluwapelumi Adetayo**
 
-LinkedIn / GitHub: [add your link]
+LinkedIn: www.linkedin.com/in/oluwapelumi-oshidele-997b51280
 
 ---
 
